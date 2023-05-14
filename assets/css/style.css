@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  margin: 10px;
+  border: 2px solid red;
+}
+
+.about {
+  margin: 20px;
+}
+
+.bigImage {
+  margin-left: 40px;
+}
